@@ -43,6 +43,7 @@ const Home = () => {
 		</div>
 	);
 
+	// Metodo viejo
 	// const lightsOn = () => {
 	// 	document.querySelector(".red").addEventListener("click", e => {
 	// 		setColor("red");
