@@ -11,3 +11,59 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body{
+    background-color: #5876a6;
+}
+
+.line{
+    width:30px;
+    background-color: black;
+    height: 80px;
+    margin:auto;
+}
+
+.traffic{
+    width:200px;
+    height: 400px;
+    background-color: black;
+    margin:auto;
+    border-radius: 10px;
+    padding-top: 30px;
+}
+
+
+.light{
+    border-radius: 50%;
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.redOn {
+    box-shadow: 0 0 6em #ff3333;
+}
+
+.yellowOn {
+    box-shadow: 0 0 6em #ffff33;
+}
+
+.greenOn {
+    box-shadow: 0 0 6em #33ff33;
+}
+
+  
